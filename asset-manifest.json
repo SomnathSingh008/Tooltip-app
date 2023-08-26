@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tooltip-app/static/css/main.d0c57d52.css",
+    "main.js": "/Tooltip-app/static/js/main.b20171de.js",
+    "index.html": "/Tooltip-app/index.html",
+    "main.d0c57d52.css.map": "/Tooltip-app/static/css/main.d0c57d52.css.map",
+    "main.b20171de.js.map": "/Tooltip-app/static/js/main.b20171de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c57d52.css",
+    "static/js/main.b20171de.js"
+  ]
+}
